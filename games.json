@@ -1,0 +1,15 @@
+[
+    {
+        "name": "pioza-test-repo",
+        "manifestName": "Pioza Github Test Repo",
+        "manifestDesc": "a test pioza repo to see if it can be hosted on github pages instead of self-hosting ",
+        "manifestVersion": 2,
+        "minSupportedVersion": 70,
+        "gamesURLs": {
+            "while_not_human": "https://github.com/Shieldowskyy/pioza-test-repo/raw/refs/heads/main/while_not_human/"
+        },
+        "customMeta": {
+            "": ""
+        }
+    }
+]

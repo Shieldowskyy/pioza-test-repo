@@ -14,8 +14,8 @@
 		},
 		"GameURLs":
 		{
-			"Windows": "https://storage.shieldowskyy.pl/cdn/while_not_human/",
-			"Linux": "https://storage.shieldowskyy.pl/cdn/while_not_human/"
+			"Windows": "https://github.com/Shieldowskyy/pioza-test-repo/raw/refs/heads/main/while_not_human/",
+			"Linux": "https://github.com/Shieldowskyy/pioza-test-repo/raw/refs/heads/main/while_not_human/"
 		},
 		"GameTitle":
 		{
