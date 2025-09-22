@@ -1,0 +1,57 @@
+[
+	{
+		"Name": "while_not_human",
+		"GameID": "while_not_human",
+		"ExecutableNames":
+		{
+			"Windows": "while_not_human.exe",
+			"Linux": "while_not_human.x86_64"
+		},
+		"ExeNamesForTracking":
+		{
+			"Windows": "while_not_human.exe",
+			"Linux": "while_not_human.x86_64"
+		},
+		"GameURLs":
+		{
+			"Windows": "https://storage.shieldowskyy.pl/cdn/while_not_human/",
+			"Linux": "https://storage.shieldowskyy.pl/cdn/while_not_human/"
+		},
+		"GameTitle":
+		{
+			"en": "while(!human)",
+			"pl": "while(!human)"
+		},
+		"DevName":
+		{
+			"en": "Naxot",
+			"pl": "Naxot"
+		},
+		"Description":
+		{
+			"en": "In this game, you'll solve puzzles by recording robot movements — one at a time.",
+			"pl": "W tej grze będziesz rozwiązywać zagadki, rejestrując ruchy robota — jeden po drugim."
+		},
+		"Changelog":
+		{
+			"en": "",
+			"pl": ""
+		},
+		"SupportedPlatforms": [
+			"Windows",
+			"Linux"
+		],
+		"minimumReqs":
+		{
+			"en": "",
+			"pl": ""
+		},
+		"VideoURLs": [
+			""
+		],
+		"CustomMeta":
+		{
+			"winetricks": "vcrun2015 vcrun2017 vcrun2019 d3dx11 d3dcompiler_47 dxgi dotnet48 dinput xinput corefonts"
+		}
+	}
+]
